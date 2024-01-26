@@ -10,7 +10,7 @@ a mini php application running docker container which supports simulation of que
 
 ## Build
 ```bash
-$ git clone https://github.com/simran-sankhala/CREST-CPSA-Terminal-Based-Practice-Question-Prep.git
+$ git clone https://github.com/Rajchowdhury420/CREST-CPSA.git
 ```
 ```bash
 $ docker build -t crest-cpsa-exam .
